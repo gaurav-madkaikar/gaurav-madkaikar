@@ -41,6 +41,7 @@ I'm Gaurav Madkaikar, a final year undegrad at IIT Kharagpur.
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" />
 </div>
+
 ---
 
 ### :fire: My Stats :
