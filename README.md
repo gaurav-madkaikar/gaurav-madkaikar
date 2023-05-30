@@ -3,11 +3,11 @@
   <img src="https://media1.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif?cid=ecf05e47sn897sezzd9r46826pmi0vcpz1xbgjhkmps3yd0a&ep=v1_gifs_related&rid=giphy.gif&ct=s" align="center" width="100"/>
 </div>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=gaurav-madkaikar&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=gaurav-madkaikar&style=flat-square&color=blue" alt="" align="center"/>
 
 <h1>
   Hey there!
@@ -17,6 +17,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### 👨‍💻 About Me:
@@ -45,7 +46,9 @@ I'm Gaurav Madkaikar, a final year undegrad at IIT Kharagpur.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gaurav-madkaikar&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-madkaikar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-madkaikar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Languages](https://github-readme-stats.vercel.app/api?username=gaurav-madkaikar)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
