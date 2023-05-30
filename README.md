@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=gaurav-madkaikar&style=flat-square&color=blue" alt="" align="center"/>
+<div id="profile_views" align="center">
+<img src="https://komarev.com/ghpvc/?username=gaurav-madkaikar&style=flat-square&color=blue" alt=""/>
+</div>
 
 <h1>
   Hey there!
