@@ -23,9 +23,10 @@
 
 ### 👨‍💻 About Me:
 I'm <strong>Gaurav Madkaikar</strong>, a final year undergraduate at IIT Kharagpur. I have a keen interest in developing software applications, programming and learning new technologies.
-- 🔭 Former software intern at Cisco
+- 🔭 Software Engineer @<a href="https://spaces.cisco.com/" alt="Cisco Spaces">![spaces-logo](https://github.com/user-attachments/assets/a2b9d63f-018a-414d-9aed-83b744fe091a)</a> Cisco Spaces
+
 - ✨ In my free time, you can find me playing blitz chess online or chilling out listening to music
-- 📫 How to reach me: [![Linkedin Badge](https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/gaurav-madkaikar-a3a7bb147/)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gaurav-madkaikar-a3a7bb147/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -47,6 +48,7 @@ I'm <strong>Gaurav Madkaikar</strong>, a final year undergraduate at IIT Kharagp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="60" height="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="vscode" alt="vscode" width="60" height="60" />
 </div>
 
 ---
